@@ -3,7 +3,7 @@ schemaspy実行ファイル一式
 
 ## 実行
 ```
-git clone 
+git clone https://github.com/ShunsukeNONOMURA/schemaspy-master.git
 cd schemaspy-master
 mkdir schemaspy/output
 
