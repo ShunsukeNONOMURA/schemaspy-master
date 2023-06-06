@@ -5,6 +5,7 @@ schemaspy実行ファイル一式
 ```
 git clone 
 cd schemaspy-master
+mkdir schemaspy/output
 
 # schemaspy.properties編集後
 docker compose up
