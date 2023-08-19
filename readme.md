@@ -7,8 +7,9 @@ git clone https://github.com/ShunsukeNONOMURA/schemaspy-master.git
 cd schemaspy-master
 mkdir schemaspy/output
 
-# schemaspy.properties編集後
-docker compose up
+# sampleを参考に./schemaspy/config/schemaspy.properties作成後に実行
+cp schemaspy/config/schemaspy_sample.properties schemaspy/config/schemaspy.properties
+./exe.sh
 ```
 
 ## 参考

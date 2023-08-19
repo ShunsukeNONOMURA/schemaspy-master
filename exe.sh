@@ -1,0 +1,1 @@
+docker compose run --rm schemaspy -configFile /config/schemaspy.properties -debug
