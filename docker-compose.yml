@@ -1,7 +1,7 @@
 version: '3'
 services:
   schemaspy:
-    image: schemaspy/schemaspy
+    build: .
     volumes:
       - ./output:/output
-      - ./schemaspy/config:/config
+      - ./config:/config
