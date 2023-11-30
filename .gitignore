@@ -1,2 +1,3 @@
 output/
 config/schemaspy.properties
+*.sqlite3

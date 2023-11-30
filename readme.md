@@ -14,3 +14,4 @@ cp schemaspy/config/schemaspy_sample.properties schemaspy/config/schemaspy.prope
 
 ## 参考
 - [schemaspyをdocker-composeで動かす](https://takahashik.hatenablog.com/entry/2018/10/09/075957)
+- [sqlite-jdbc](https://github.com/xerial/sqlite-jdbc/releases/)
